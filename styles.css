@@ -1,0 +1,30 @@
+/* the id and class tag override the tag selectors. You cannot have more than one ids for a single tag*/
+  body{
+    background-color:#e4fbff ;
+  }
+  .painting:hover{
+    border-radius: 100%;
+  
+  }
+  .bet {
+    border-color:grey;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 4px;
+    width: 10%;
+
+  }
+  hr {
+    border-color:grey;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 4px;
+    width: 100%;
+
+  }
+  h1{
+    color: #28527a;
+  }
+h3{
+  color: #28527a ;
+}
